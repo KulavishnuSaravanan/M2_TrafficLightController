@@ -102,3 +102,8 @@ Structural Diagram
 ![s2](https://user-images.githubusercontent.com/102645146/164723613-c8765727-8fe8-43b4-a4b2-0f22752b44a5.png)
 
 
+Output
+----
+![image](https://user-images.githubusercontent.com/102645146/164724244-897433cf-241a-43b0-93ff-bf919487e3b3.png)
+![image](https://user-images.githubusercontent.com/102645146/164724277-8c5ac39d-0c86-4941-b659-b75a7198d279.png)
+
