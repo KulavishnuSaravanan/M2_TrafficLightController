@@ -83,3 +83,22 @@ Low Level Requirements
 | LLR_1 |The input is visualized using colour of LED glow.	| Implemented |
 | LLR_2	|The traffic system runs effectively on linux but it will also run equally well on other.	| Implemented |
 | LLR_3	|The corresponding LED glows based on the traffic density.	| Implemented |
+
+
+Behavioural Diagram
+----
+
+![behaviour](https://user-images.githubusercontent.com/102645146/164723327-42192018-70f3-40e5-a524-48078c9af75e.png)
+
+Block Diagram
+----
+
+![block](https://user-images.githubusercontent.com/102645146/164723386-596873b0-0626-453a-a7ec-97c56369dda3.png)
+
+Structural Diagram
+----
+
+![s1](https://user-images.githubusercontent.com/102645146/164723571-70685cfb-76fc-4db1-8d83-2eac2aceec58.png)
+![s2](https://user-images.githubusercontent.com/102645146/164723613-c8765727-8fe8-43b4-a4b2-0f22752b44a5.png)
+
+
